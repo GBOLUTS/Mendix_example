@@ -1,0 +1,10 @@
+Buildfile: D:\Mendix_projects\Mendix_projects2\deployment\build_core.xml
+
+deploy:
+    [unzip] Expanding: D:\Mendix5\modeler\deployment.mxz into D:\Mendix_projects\Mendix_projects2\deployment
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+
+
+
